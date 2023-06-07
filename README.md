@@ -1,4 +1,6 @@
-# Hi, I'm XinJie 👋
+
+
+<h1 align="center">Hi, I'm XinJie 👋</h1>
 
 <img src="/assets/desktop.gif" width="100%" /> 
 
