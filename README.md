@@ -1,6 +1,6 @@
 # Hey There ! 👋
 
-![banner](./assets/desktop.jpg) 
+![banner](./assets/desktop.gif) 
 
 Hi! As a Precision Engineering graduate, I'm diving into Information Technology, exploring Penetration Testing, Malware Development, and EDR Bypassing. My GitHub reflects my journey as I expand my skills in these areas.
 
