@@ -6,7 +6,9 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ATHWI3H&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ATHWI3H&layout=donut-vertical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D3ATHWI3H&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D3ATHWI3H)
+
 
 
 
