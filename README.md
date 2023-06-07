@@ -1,10 +1,13 @@
-
-
 <h1 align="center">Hi, I'm XinJie 👋</h1>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/xinjie-wang-5a29b9200/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 <img src="/assets/desktop.gif" width="100%" /> 
 
-#### I'm a Precision Engineering graduate, I'm diving into Information Technology, exploring Penetration Testing, Malware Development, and EDR Bypassing. My GitHub reflects my journey as I expand my skills in these areas.
+<p>I'm a Precision Engineering graduate, I'm diving into Information Technology, exploring Penetration Testing, Malware Development, and EDR Bypassing. My GitHub reflects my journey as I expand my skills in these areas.</p>
 
 ##
 
